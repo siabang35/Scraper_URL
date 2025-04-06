@@ -65,7 +65,7 @@ leadgen-scraper/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/siabang35/leadgen-scraper.git
+git clone https://github.com/siabang35/Scraper_URL.git
 cd leadgen-scraper
 ```
 
