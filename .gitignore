@@ -1,0 +1,47 @@
+# Virtual environment
+venv/
+.venv/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# VSCode and PyCharm settings (optional, good practice)
+.vscode/
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Data folders
+data/cache/
+data/processed/
+data/raw/
+data/exports/
+
+# Test logs or temp test data
+tests/data/
+tests/logs/
+
+# Exported models or outputs (optional)
+*.h5
+*.pt
+*.onnx
+*.pkl
+
+# Misc
+*.bak
+*.swp
