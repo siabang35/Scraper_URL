@@ -66,7 +66,7 @@ leadgen-scraper/
 
 ```bash
 git clone https://github.com/siabang35/Scraper_URL.git
-cd leadgen-scraper
+cd Scraper_URL
 ```
 
 ### 2. Create and Activate Virtual Environment
